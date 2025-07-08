@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: 
-  * starlookup@gmail.com
+  * xtsun@stu.xidian.edu.cn
